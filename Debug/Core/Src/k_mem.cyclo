@@ -1,0 +1,4 @@
+../Core/Src/k_mem.c:26:5:k_mem_init	3
+../Core/Src/k_mem.c:48:7:k_mem_alloc	9
+../Core/Src/k_mem.c:119:5:k_mem_dealloc	15
+../Core/Src/k_mem.c:197:5:k_mem_count_extfrag	4

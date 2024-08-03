@@ -1,0 +1,5 @@
+../Core/Src/k_task.c:20:6:null_task	1
+../Core/Src/k_task.c:26:5:osCreateDeadlineTask	10
+../Core/Src/k_task.c:78:5:osCreateTask	9
+../Core/Src/k_task.c:127:5:osTaskInfo	5
+../Core/Src/k_task.c:145:5:osTaskExit	2

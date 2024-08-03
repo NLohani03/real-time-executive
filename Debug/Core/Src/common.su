@@ -1,0 +1,7 @@
+../Core/Src/common.c:21:6:osKernelInit	8	static
+../Core/Src/common.c:39:6:switch_task	32	static,ignoring_inline_asm
+../Core/Src/common.c:67:5:osKernelStart	8	static,ignoring_inline_asm
+../Core/Src/common.c:86:6:osYield	8	static,ignoring_inline_asm
+../Core/Src/common.c:109:6:osSleep	16	static,ignoring_inline_asm
+../Core/Src/common.c:119:6:osPeriodYield	4	static,ignoring_inline_asm
+../Core/Src/common.c:126:5:osSetDeadline	24	static,ignoring_inline_asm

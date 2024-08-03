@@ -1,0 +1,12 @@
+../Core/Src/queue.c:4:5:queue_full	2
+../Core/Src/queue.c:13:5:queue_empty	2
+../Core/Src/queue.c:22:6:queue_init	1
+../Core/Src/queue.c:28:5:push	2
+../Core/Src/queue.c:43:5:pop	2
+../Core/Src/queue.c:59:6:createQueue	1
+../Core/Src/queue.c:64:5:pushToEDFQueue	8
+../Core/Src/queue.c:101:5:updatePositionInEDFQueue	6
+../Core/Src/queue.c:128:5:removeFromEDFQueue	6
+../Core/Src/queue.c:154:5:removeFirstItemFromEDFQueue	2
+../Core/Src/queue.c:165:6:get_non_sleeping_task	4
+../Core/Src/queue.c:176:6:get_task_from_tid	3

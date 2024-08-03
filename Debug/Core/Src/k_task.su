@@ -1,0 +1,5 @@
+../Core/Src/k_task.c:20:6:null_task	16	static
+../Core/Src/k_task.c:26:5:osCreateDeadlineTask	40	static,ignoring_inline_asm
+../Core/Src/k_task.c:78:5:osCreateTask	32	static,ignoring_inline_asm
+../Core/Src/k_task.c:127:5:osTaskInfo	32	static
+../Core/Src/k_task.c:145:5:osTaskExit	8	static,ignoring_inline_asm
